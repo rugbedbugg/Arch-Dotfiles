@@ -5,15 +5,14 @@ Personal Arch Linux configuration files, maintained as a **manual setup** rather
 These dotfiles are desgined to be **manually integrated** into your setup:
 * No install script
 * No one-command magic
-* You decide what to use and how
+* You decide what to use and how  
 This keeps things transparent, debuggable, and adaptable to different machines.
-
 
 ## What This Repo Is
 A collection of configuration files for my daily Arch Linux environment, focused on:
 * A clean Hyprland workflow
 * Minimally riced visuals
-* Essentials-only tooling
+* Essentials-only tooling  
 Primary components include window management, terminal, editor, shell, and UI utilities.
 
 ## Repository Structure
@@ -101,7 +100,7 @@ Resolve conflicts consciously. These are *configs*, not libraries.
 ⚠️ These dotfiles:
 * Assume Arch defaults
 * Assume certain packages exist
-* May break without notice
+* May break without notice  
 They are **not beginner-proof**.
 
 ## Final Note
